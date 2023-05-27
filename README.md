@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/1a/71/58/1a7158689e5ce37e5d78d97c332a003f.gif">
+<img src="https://i.pinimg.com/originals/99/cd/09/99cd0925c516b5d0a740dffd03c3e0df.gif">
 
 <h1 align="center"> Oi, Luana aqui ! :) </h1>
 
