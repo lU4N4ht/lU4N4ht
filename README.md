@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/1a/71/58/1a7158689e5ce37e5d78d97c332a003f.gif">
 
-<h1 align="center"> Luana aqui ! 🌙 </h1>
+<h1 align="center"> Oi, Luana aqui ! :) </h1>
 
 <div style="display: inline_block" align="center">
   
