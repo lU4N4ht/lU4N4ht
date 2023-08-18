@@ -19,7 +19,7 @@
 - 👨‍💻 Estudando **Desenvolvimento de Sistemas** no [SENAI Jandira](https://jandira.sp.senai.br/);
 - 💯 Comprometimento;
 - ☀️ Criatividade;
-- 🖍️ Apaixonada por **artes visuais**;
+- 🖍️ Habilidade em **artes visuais**;
 - 👾 Linguagens variadas;
 - ☁️ Inicializando em Cloud;
 - 💻 Atualmente focada no estudo de:
