@@ -1,6 +1,6 @@
 ![GIF](https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif)
 
-<h1 align="center"> Hi, Luana here :) </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=19677E&size=35&center=true&vCenter=true&width=1000&lines=<+Hello+World,+I'm+Luana+Magalhães+>;Welcome!)](https://git.io/typing-svg)
 
 <div style="display: inline_block" align="center">
   
