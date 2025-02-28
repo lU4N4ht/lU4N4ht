@@ -1,6 +1,6 @@
-<img src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif">
+![GIF](https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif)
 
-<h1 align="center"> Oi, Luana aqui ! :) </h1>
+<h1 align="center"> Hi, Luana here :) </h1>
 
 <div style="display: inline_block" align="center">
   
