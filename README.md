@@ -58,7 +58,7 @@
  ### LEARNING: 
    
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=FFFFFF&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=c&logoColor=FFFFFF&labelColor=0D1117)&nbsp;
 
 
  ### TOOLS: 
