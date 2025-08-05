@@ -15,7 +15,7 @@
     <p>📚 Passionate about <strong>continuous learning and exploring new technologies</strong></p>
   </div>
 
-  <img src="grass.png" width="300" alt="grass pixel art"/>
+  <img src="rock.png" width="200" alt="rock pixel art"/>
 </div>
 
 ## 🛠️ Technology Stack
