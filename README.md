@@ -73,7 +73,7 @@
 
 <div align="center" display="flex" gap="40px">  
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=lU4N4ht&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0AB855"/> 
-  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=lU4N4ht&theme=green_nur&hide_border=true&exclude_days=Sun" />
+  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=lU4N4ht&theme=green_nur&hide_border=true&exclude_days=Sun"/>
 </div>
 
 ---
