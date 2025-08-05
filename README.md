@@ -5,7 +5,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/f4/a1/5e/f4a15ee5660f7fdbcad97b4c6682592c.jpg" width="100"  alt="snail pixel art"/>
+  <img src="snail.png" width="100"  alt="snail pixel art"/>
 
   <div align="left">
     <p>🧠 <strong>Studying</strong> Computer Science at <strong>FIAP</strong></p>
