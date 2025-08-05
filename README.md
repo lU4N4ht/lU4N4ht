@@ -14,9 +14,10 @@
     <p>💡 Known for my <strong>creativity and problem-solving skills</strong></p>
     <p>📚 Passionate about <strong>continuous learning and exploring new technologies</strong></p>
   </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lU4N4ht&hide_progress=true&theme=merko)
   
 </div>
-
 
 ## 🛠️ Technology Stack
 
