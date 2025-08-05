@@ -14,9 +14,9 @@
     <p>💡 Known for my <strong>creativity and problem-solving skills</strong></p>
     <p>📚 Passionate about <strong>continuous learning and exploring new technologies</strong></p>
   </div>
-
-  <img src="rock.png" width="200" alt="rock pixel art"/>
+  
 </div>
+
 
 ## 🛠️ Technology Stack
 
@@ -66,9 +66,8 @@
 ![Canva](https://img.shields.io/badge/Canva-28A745?style=for-the-badge&logo=canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-28A745?style=for-the-badge&logo=notion&logoColor=white)
 
-
+<img src="rock.png" width="200" alt="rock pixel art"/>
 </div>
-
 <hr>
 
 <div align="center" display="flex" gap="40px">  
