@@ -47,6 +47,7 @@
 
 ![Python](https://img.shields.io/badge/Python-28A745?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-28A745?style=for-the-badge&logo=c&logoColor=white)
+![Cobol](https://img.shields.io/badge/Cobol-28A745?style=for-the-badge)
 
 </div>
 
